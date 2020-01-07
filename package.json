@@ -1,0 +1,22 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vapvin/RestApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vapvin/RestApi/issues"
+  },
+  "homepage": "https://github.com/vapvin/RestApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
